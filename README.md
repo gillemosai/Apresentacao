@@ -1,4 +1,4 @@
-![Logo](https://github.com/gillemosai/Apresentacao/issues/1) # 👋 Olá, seja bem-vindo ao meu perfil!
+![Logo]([https://github.com/gillemosai/Apresentacao/issues/1](https://private-user-images.githubusercontent.com/195871945/409870744-2537990d-6a5d-4e46-a4ed-0e83a3bc851b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg3NDAzNDgsIm5iZiI6MTczODc0MDA0OCwicGF0aCI6Ii8xOTU4NzE5NDUvNDA5ODcwNzQ0LTI1Mzc5OTBkLTZhNWQtNGU0Ni1hNGVkLTBlODNhM2JjODUxYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwNVQwNzIwNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjI2NGRmMTJhZmI4NGUyYmZiYWUyMTdjODA5MDlmZmExOGE2NWE5ZDQ4ZTY5YTk2ZDg0NjFiNmI3MWU1NTA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rYMWAng3Rq7IJZJjTaWTHCPwEcOeRZkgLnL4CNpiolQ)) # 👋 Olá, seja bem-vindo ao meu perfil!
 
 ---
 
