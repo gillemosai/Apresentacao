@@ -18,7 +18,7 @@ tornando o conhecimento acessível e prático.
 | 📖 Curso | 🏛️ Instituição |
 |----------|---------------|
 | 🎓 Pós-Graduação em Inteligência Artificial | Faculdade Metropolitana |
-| 🎓 Graduação em Marketing | Universidade XYZ |
+| 🎓 Graduação em Marketing | Unopar |
 
 ---
 
@@ -70,14 +70,6 @@ tornando o conhecimento acessível e prático.
   <a href="https://www.linkedin.com/in/gillemosai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="http://youtube.com/gillemosdl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-
----
-
-## 🤖 Meu Curso de IA na Prática
-
-[![Hotmart](https://img.shields.io/badge/Curso_IA_na_Prática-fd5308?style=for-the-badge)](https://gillemos.hotmart.host/ia360)
-
-
 
 ---
 
